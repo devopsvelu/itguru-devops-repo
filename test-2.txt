@@ -1,3 +1,4 @@
 This file is created for second commit on local repository
 by 
 velmurugan 
+this line is added after test-1.txt file rename for test-bug.txt
