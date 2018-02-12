@@ -1,3 +1,0 @@
-hello world
-
-This file is created for test4.txt in test branch 
