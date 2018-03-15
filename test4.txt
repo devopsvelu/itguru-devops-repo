@@ -1,3 +1,5 @@
 This file is created for test jenkins job through GIT
 
+First attempt faile because there was an issue with build job configuration in jenkins
 
+Trying second time to build through jenkins using GIT file
